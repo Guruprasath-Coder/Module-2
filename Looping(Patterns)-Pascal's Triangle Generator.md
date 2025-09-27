@@ -36,15 +36,11 @@ for n in range(rows):
     for k in range(n + 1):
         print(math.comb(n, k), end=" ")
     print()
-
+```
 ## Sample Output
-Enter number of rows: 5
-     1 
-    1 1 
-   1 2 1 
-  1 3 3 1 
- 1 4 6 4 1 
+![image](https://github.com/user-attachments/assets/f852768f-ddf9-4977-8f28-11abd2af690a)
 
 ## Result
+```
 The program successfully generates Pascal’s Triangle up to the number of rows specified by the user.
 
