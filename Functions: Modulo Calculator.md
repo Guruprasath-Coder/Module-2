@@ -18,11 +18,10 @@ def result(a, b):
 x = int(input("Enter first number: "))
 y = int(input("Enter second number: "))
 result(x, y)
-
+```
 ## Output
-Enter first number: 17
-Enter second number: 5
-Modulo is: 2
-
+![image](https://github.com/user-attachments/assets/c7fade8a-0d6a-4138-b796-cf2f2d7398ba)
 ## Result
-The program successfully defines and uses a function to calculate the modulo of two numbers.
+```
+The program successfully defines and uses a function
+to calculate the modulo of two numbers.
