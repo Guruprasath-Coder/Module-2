@@ -20,7 +20,7 @@ print("Sum is:", f(x, y))
 
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/c7fade8a-0d6a-4138-b796-cf2f2d7398ba)
+![image](https://github.com/user-attachments/assets/ebd5beac-5f4f-4be7-beac-8e0f9dac5ec8)
 
 
 ## Result
