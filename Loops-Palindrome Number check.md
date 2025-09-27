@@ -27,12 +27,9 @@ if num == rev:
     print(num, "is a Palindrome")
 else:
     print(num, "is Not a Palindrome")
-
+```
 ## Output
-Enter a number: 121
-121 is a Palindrome
-Enter a number: 123
-123 is Not a Palindrome
-
+![image](https://github.com/user-attachments/assets/f5719231-1cc7-443a-9942-d40ff7ec1748)
 ## Result
+```
 The program successfully checks whether the given number is a palindrome using loops.
