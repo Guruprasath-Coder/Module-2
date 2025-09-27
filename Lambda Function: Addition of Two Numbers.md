@@ -18,10 +18,11 @@ y = int(input("Enter second number: "))
 
 print("Sum is:", f(x, y))
 
+```
 ## Output
-Enter first number: 10
-Enter second number: 25
-Sum is: 35
+![image](https://github.com/user-attachments/assets/ebd5beac-5f4f-4be7-beac-8e0f9dac5ec8)
+
 
 ## Result
+```
 The program successfully uses a lambda function to add two numbers and display the result.
